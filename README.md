@@ -1,3 +1,9 @@
+## Live Demo
+
+🔗 Live Application: https://ai-interview-coach-gr9apws3negwhbdtlezbks.streamlit.app/
+
+🔗 GitHub Repository: https://github.com/Likithareddy29/AI-Interview-Coach
+
 # 🚀 AI Interview Coach
 
 AI Interview Coach is an AI-powered Resume Analysis and Interview Preparation platform built using Python, Streamlit, and Groq LLM.
