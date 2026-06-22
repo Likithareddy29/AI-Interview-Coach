@@ -4,7 +4,6 @@ __pycache__/
 *.pyd
 
 .env
-config.py
 
 .streamlit/
 
@@ -16,6 +15,5 @@ env/
 
 generated_report.pdf
 resume_report.pdf
-config.py
 .streamlit/
 gemini_helper.py
