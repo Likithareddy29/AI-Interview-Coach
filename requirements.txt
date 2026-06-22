@@ -2,3 +2,4 @@ streamlit
 pdfplumber
 groq
 plotly
+fpdf
