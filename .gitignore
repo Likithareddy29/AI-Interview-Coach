@@ -17,4 +17,5 @@ env/
 generated_report.pdf
 resume_report.pdf
 config.py
+.streamlit/
 gemini_helper.py
